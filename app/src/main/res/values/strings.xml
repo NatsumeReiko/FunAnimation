@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fun Animation</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="category">FUN_ANIMATION</string>
+</resources>
